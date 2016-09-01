@@ -1,7 +1,7 @@
-name: FloatingText
+name: FloatingTextMCPE
 description: Shows floating text in a world.
-main: MCPH\FloatingText\Main
+main: XShovel54\FloatingTextMCPE\Main
 version: 1.0
-author: MinecrafterPH
+author: XShovel54
 api: 1.0.0
 load: POSTWORLD
