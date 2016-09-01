@@ -1,5 +1,5 @@
 ---
-# FloatingText by MinecrafterPH
+# FloatingTextMCPE by XShovel54
 
 # Notes:
 # Positions are seperated by a comma. (e.g. x, y, z)
